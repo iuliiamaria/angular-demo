@@ -1,0 +1,13 @@
+{
+    "users": [{
+            "id": "1",
+            "name": "Charmaine",
+            "email": "charmaine.richardson@endipin.com"
+        },
+        {
+            "id": "2",
+            "name": "Lyons",
+            "email": "lyons.mccoy@sybixtex.com"
+        }
+    ]
+}
